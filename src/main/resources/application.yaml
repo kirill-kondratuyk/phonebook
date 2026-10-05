@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/phonebook
     username: postgres
-    password: password_here
+    password: password_heregit push -u origin main
   jpa:
     hibernate:
       ddl-auto: update
